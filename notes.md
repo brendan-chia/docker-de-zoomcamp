@@ -1,0 +1,1 @@
+In terminal, write PS1 = "> " , to avoid the long name
